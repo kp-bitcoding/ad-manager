@@ -95,8 +95,8 @@
   "version_detail": "djs c dns f   ds g  g df g"
  },
  "feedback_support": {
-  "is_feedback": false,
-  "cc_email_id": null,
+  "is_feedback": true,
+  "cc_email_id": "test@gmail.com",
   "email_id": "test@gmail.com",
   "email_subject": "test@gmail.com",
   "email_message": "heloo mkvfdv dmngjkfdb vdfbdfjbn dfbnkdf bdfn"
