@@ -2,7 +2,7 @@
  "id": 1,
  "title": "test app",
  "package_id": "4579-1245-7885",
- "thumbnail": "https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg",
+ "thumbnail": "https://github.com/kp-bitcoding/ad-manager/tree/main/test%20app",
  "description": "This is test data...........",
  "ads_loading_text": "please wait........",
  "ads_loading_delay": 21,
