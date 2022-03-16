@@ -57,7 +57,6 @@
   "log_message": "log message"
  },
  "about_app": {
-  "is_override": true,
   "is_about_app": true,
   "about_title": "ab itle",
   "about_message": "djshjfdfhjdsghfjgd vhsdgfsdghf gfgfdygf"
