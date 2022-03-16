@@ -5,7 +5,7 @@
  "thumbnail": "https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg",
  "description": "This is test data...........",
  "ads_loading_text": "please wait........",
- "ads_loading_delay": 20,
+ "ads_loading_delay": 21,
  "is_banner_ads": false,
  "is_interstitial_ads": true,
  "created_date": "2022-03-15T16:41:36.759417+05:30",
