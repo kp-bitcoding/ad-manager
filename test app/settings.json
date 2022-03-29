@@ -23,7 +23,7 @@
       "live_watch_id":"dF6hGkK8o8o"
     },
     "custom_ads": {
-      "is_banner_ads": ture,
+      "is_banner_ads": true,
       "is_interstitial_ads": true,
       "visibility_percentage": 40,
       "banner_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
