@@ -19,7 +19,8 @@
       "is_open_ads": true,
       "is_interstitial_ads": true,
       "is_native_ads": true,
-      "visibility_percentage": 10
+      "visibility_percentage": 10,
+      "live_watch_id":"dF6hGkK8o8o"
     },
     "custom_ads": {
       "is_banner_ads": true,
