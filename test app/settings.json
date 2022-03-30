@@ -20,7 +20,7 @@
       "is_interstitial_ads": true,
       "is_native_ads": true,
       "visibility_percentage": 10,
-      "live_watch_id":"dF6hGkK8o8o"
+     
     },
     "custom_ads": {
       "is_banner_ads": true,
@@ -30,6 +30,9 @@
       "interstitial_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
       "all_custom_ad_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github"
     }
+  },
+  "app_settings":{
+     "live_watch_id":"dF6hGkK8o8o"
   },
   "app_update_information": {
     "is_popup_dialog": true,
