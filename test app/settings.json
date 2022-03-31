@@ -15,15 +15,15 @@
       "interstitial_ad_unit_id_android": "/6499/example/interstitial",
       "app_open_ad_unit_id_android": "/6499/example/app-open",
       "native_ads_unit_id_android": "/6499/example/native",
-      "is_banner_ads": false,
-      "is_open_ads": false,
-      "is_interstitial_ads": false,
-      "is_native_ads": false,
+      "is_banner_ads": true,
+      "is_open_ads": true,
+      "is_interstitial_ads": true,
+      "is_native_ads": true,
       "visibility_percentage": 10
      
     },
     "custom_ads": {
-      "is_banner_ads": false,
+      "is_banner_ads": true,
       "is_interstitial_ads": true,
       "visibility_percentage": 40,
       "banner_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
