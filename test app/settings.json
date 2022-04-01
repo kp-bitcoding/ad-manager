@@ -55,18 +55,18 @@
   "rate_app": {
     "is_rate_app": true,
     "package_id": "46456454",
-    "rate_app_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+    "rate_app_url": "https://play.google.com/store/apps/details?id=com.bitmedia.ipl2k22",
     "rate_message": "gnfjghdhddgysf dbfhd fbdsv yfgh hfsdgd"
   },
   "more_apps": {
     "is_more_app": true,
     "developer_id": "45455455",
-    "more_app_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github"
+    "more_app_url": "https://play.google.com/store/apps/developer?id=BitMedia+LLC"
   },
   "share_app": {
     "is_share_app": true,
     "share_message_app": "bdhsfg dsvfds fvdfs f f sdd",
-    "share_message_link": "https://play.google.com/store/apps/details?id=in.ajaykhatri.ramayankatha"
+    "share_message_link": "https://play.google.com/store/apps/details?id=com.bitmedia.ipl2k22"
   },
   "official_website": {
     "is_official_website": true,
