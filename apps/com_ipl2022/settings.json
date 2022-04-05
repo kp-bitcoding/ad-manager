@@ -19,7 +19,8 @@
       "is_open_ads": true,
       "is_interstitial_ads": true,
       "is_native_ads": true,
-      "visibility_percentage": 10
+      "visibility_percentage": 10,
+      "no_of_click_interstitial":3
      
     },
     "custom_ads": {
@@ -32,6 +33,8 @@
     }
   },
   "app_settings":{
+    "live_watch_youtube_button":true,
+    "live_score_button":true,
      "live_watch_id":"qIaCAJD80Zc",
     "live_score_web_url":"https://www.espncricinfo.com/live-cricket-score",
     "complete_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-schedule-fixtures",
