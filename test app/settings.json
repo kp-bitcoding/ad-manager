@@ -15,11 +15,13 @@
       "interstitial_ad_unit_id_android": "/6499/example/interstitial",
       "app_open_ad_unit_id_android": "/6499/example/app-open",
       "native_ads_unit_id_android": "/6499/example/native",
-      "is_banner_ads": false,
-      "is_open_ads": false,
-      "is_interstitial_ads": false,
-      "is_native_ads": false,
-      "visibility_percentage": 10
+      "native_video_ads_unit_id_android":"/6499/example/native-video",
+      "is_banner_ads": true,
+      "is_open_ads": true,
+      "is_interstitial_ads": true,
+      "is_native_ads": true,
+      "visibility_percentage": 10,
+      "no_of_click_interstitial":2
      
     },
     "custom_ads": {
@@ -32,7 +34,13 @@
     }
   },
   "app_settings":{
-     "live_watch_id":"SF58CielQLE",
+    "live_watch_youtube_button":false,
+    "live_score_button":true,
+     "live_watch_id":"qIaCAJD80Zc",
+    "direct_move_quraka_ads":true,
+    "ipl_auction_webview_url":"https://www.iplt20.com/video/41211/top-buys-from-tata-ipl-player-auction-2022?tagNames=home",
+    "ipl_highlights_webview_url":"https://www.iplt20.com/video/highlights",
+    "ipl_point_table_webview_url":"https://www.iplt20.com/points-table/men/2022",
     "live_score_web_url":"https://www.espncricinfo.com/live-cricket-score",
     "complete_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-schedule-fixtures",
     "upcomming_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-results"
@@ -93,3 +101,4 @@
     "email_message": "heloo mkvfdv dmngjkfdb vdfbdfjbn dfbnkdf bdfn"
   }
 }
+
