@@ -25,6 +25,7 @@
      
     },
     "custom_ads": {
+      "close_button_to_direct_web":true,
       "is_banner_ads": true,
       "is_interstitial_ads": false,
       "visibility_percentage": 40,
@@ -43,7 +44,10 @@
     "ipl_point_table_webview_url":"https://www.iplt20.com/points-table/men/2022",
     "live_score_web_url":"https://www.espncricinfo.com/live-cricket-score",
     "complete_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-schedule-fixtures",
-    "upcomming_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-results"
+    "upcomming_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-results",
+    "Ads1":true,
+    "Ads2":true,
+    "Ads3":true
   },
   "app_update_information": {
     "is_popup_dialog": true,
