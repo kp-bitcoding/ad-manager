@@ -25,7 +25,7 @@
      
     },
     "custom_ads": {
-      "close_button_to_direct_web":true,
+      "close_button_to_direct_web":false,
       "is_banner_ads": true,
       "is_interstitial_ads": false,
       "visibility_percentage": 40,
