@@ -49,6 +49,9 @@
   },
   
 "ads" :{
+  "show_ads_1":true,
+  "show_ads_2":true,
+  "show_ads_3":true,
   "ads_image_1":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore%20(3).png?alt=media&token=a21103cc-898e-4d8a-8d96-6ea21fb88c2e",
   "ads_image_2":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore%20(1).png?alt=media&token=9710a6a9-c297-455c-a51f-83e43609d516",
   "ads_image_3":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore.png?alt=media&token=e55178f3-6bb1-4acc-85ad-837fbac0f01f",
