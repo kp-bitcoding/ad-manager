@@ -100,5 +100,8 @@
   "email_id": "test@gmail.com",
   "email_subject": "test@gmail.com",
   "email_message": "cdscs"
+ },
+ "app_setting": {
+  "app_settings": "{\r\n \"is_banner_ads\": false,\r\n \"is_interstitial_ads\": false,\r\n \"created_date\": \"2022-04-09T18:00:21.631354+05:30\",\r\n \"admob_settings\": {\r\n  \"ads_loading_text\": \"please wait\",\r\n  \"ads_loading_delay\": 454,\r\n  \"is_banner_ads\": false,\r\n  \"is_interstitial_ads\": false\r\n}"
  }
 }
