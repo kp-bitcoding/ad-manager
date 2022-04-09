@@ -1,0 +1,104 @@
+{
+ "id": 2,
+ "title": "bitcoding1",
+ "package_id": "4646",
+ "thumbnail": "https://github.com/kp-bitcoding/ad-manager/blob/main/AppImages/4cad58.png?raw=true",
+ "description": "568",
+ "ads_loading_text": "wdwsxcws",
+ "ads_loading_delay": 45,
+ "is_banner_ads": false,
+ "is_interstitial_ads": false,
+ "created_date": "2022-04-09T18:00:21.631354+05:30",
+ "admob_settings": {
+  "ads_loading_text": "please wait",
+  "ads_loading_delay": 454,
+  "is_banner_ads": true,
+  "is_interstitial_ads": false,
+  "google_ads": {
+   "ads_app_id_ios": "google-545455",
+   "ads_app_id_android": "fhdjs",
+   "banner_ad_unit_id_ios": "dghgd`",
+   "banner_ad_unit_id_android": "dgshgdh",
+   "interstitial_ad_unit_id_ios": "gdshgdhs",
+   "interstitial_ad_unit_id_android": "shagdhgsah",
+   "app_open_ad_unit_id_android": "sghagdhsha",
+   "app_open_ad_unit_id_ios": "gdshghdg",
+   "native_ads_unit_id_android": "dghgdh",
+   "is_banner_ads": false,
+   "is_open_ads": false,
+   "is_interstitial_ads": false,
+   "is_native_ads": false,
+   "visibility_percentage": 465
+  },
+  "unity_ads": {
+   "ads_app_id_ios": "unity-45455",
+   "ads_app_id_android": "4545445",
+   "is_banner_ads": false,
+   "is_interstitial_ads": false,
+   "visibility_percentage": 46456
+  },
+  "custom_ads": {
+   "is_banner_ads": false,
+   "is_interstitial_ads": false,
+   "visibility_percentage": 555,
+   "banner_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+   "interstitial_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+   "all_custom_ad_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github"
+  }
+ },
+ "app_update_information": {
+  "is_popup_dialog": false,
+  "download_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+  "website_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+  "updated_version_code": 12,
+  "filename": "test file name",
+  "title": "this is test title",
+  "default_message": "default msg",
+  "log_message": "jkdshc"
+ },
+ "about_app": {
+  "is_about_app": false,
+  "about_title": "ab itle",
+  "about_message": "hcjdsg"
+ },
+ "rate_app": {
+  "is_rate_app": false,
+  "package_id": "46456454",
+  "rate_app_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+  "rate_message": "cndjsh"
+ },
+ "more_apps": {
+  "is_more_app": false,
+  "developer_id": "45455455",
+  "more_app_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github"
+ },
+ "share_app": {
+  "is_share_app": false,
+  "share_message_app": "bdhsfg dsvfds fvdfs f f sdd",
+  "share_message_link": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github"
+ },
+ "official_website": {
+  "is_official_website": false,
+  "official_website": "http://127.0.0.1:8000/admin/insert_app/baseapp/1/change/"
+ },
+ "privacy_policy": {
+  "is_privacy_policy": false,
+  "privacy_policy": "xcsxcsc"
+ },
+ "terms_of_use": {
+  "is_terms_of_use": false,
+  "terms_of_use": "csdcscds"
+ },
+ "splash_screen": {
+  "is_splash_details": false,
+  "registration_detail": "cdscdscds",
+  "version_detail": "cdscdscds"
+ },
+ "feedback_support": {
+  "is_feedback": false,
+  "cc_email_id": "test@gmail.com",
+  "email_id": "test@gmail.com",
+  "email_subject": "test@gmail.com",
+  "email_message": "cdscs"
+ }
+}
