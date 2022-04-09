@@ -45,11 +45,22 @@
     "ipl_point_table_webview_url":"https://www.iplt20.com/points-table/men/2022",
     "live_score_web_url":"https://www.espncricinfo.com/live-cricket-score",
     "complete_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-schedule-fixtures",
-    "upcomming_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-results",
-    "Ads1":false,
-    "Ads2":false,
-    "Ads3":false
+    "upcomming_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-results"
   },
+  
+"ads" :{
+  "ads_image_1":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore%20(3).png?alt=media&token=a21103cc-898e-4d8a-8d96-6ea21fb88c2e",
+  "ads_image_2":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore%20(1).png?alt=media&token=9710a6a9-c297-455c-a51f-83e43609d516",
+  "ads_image_3":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore.png?alt=media&token=e55178f3-6bb1-4acc-85ad-837fbac0f01f",
+  "ads_name_1":"Dream 11",
+  "ads_name_2":"Money Count",
+  "ads_name_3":"Live Score",
+  "ads_url_1":"https://play.google.com/store/apps/details?id=com.bitmedia.ipl2k22",
+  "ads_url_2":"https://play.google.com/store/apps/details?id=com.money_count_save",
+  "ads_url_3":"https://play.google.com/store/apps/details?id=com.liveiplscore"
+},
+  
+  
   "app_update_information": {
     "is_popup_dialog": true,
     "download_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
