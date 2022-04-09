@@ -17,17 +17,17 @@
       "app_open_ad_unit_id_android": "/6499/example/app-open",
       "native_ads_unit_id_android": "/6499/example/native",
       "native_video_ads_unit_id_android":"/6499/example/native-video",
-      "is_banner_ads": false,
-      "is_open_ads": false,
-      "is_interstitial_ads": false,
-      "is_native_ads": false,
+      "is_banner_ads": true,
+      "is_open_ads": true,
+      "is_interstitial_ads": true,
+      "is_native_ads": true,
       "visibility_percentage": 10,
       "no_of_click_interstitial":2
      
     },
     "custom_ads": {
       "close_button_to_direct_web":false,
-      "is_banner_ads": false,
+      "is_banner_ads": true,
       "is_interstitial_ads": false,
       "visibility_percentage": 40,
       "banner_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
@@ -38,7 +38,7 @@
   "app_settings":{
     "one_signal_id":"e7ef33a9-d18e-4b4d-ac49-cdba704f6fb6",
     "live_watch_youtube_button":false,
-    "live_score_button":false,
+    "live_score_button":true,
      "live_watch_id":"qIaCAJD80Zc",
     "direct_move_quraka_ads":false,
     "ipl_auction_webview_url":"https://www.iplt20.com/video/41211/top-buys-from-tata-ipl-player-auction-2022?tagNames=home",
@@ -50,9 +50,9 @@
   },
   
 "ads" :{
-  "show_ads_1":false,
-  "show_ads_2":false,
-  "show_ads_3":false,
+  "show_ads_1":true,
+  "show_ads_2":true,
+  "show_ads_3":true,
   "ads_image_1":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore%20(3).png?alt=media&token=a21103cc-898e-4d8a-8d96-6ea21fb88c2e",
   "ads_image_2":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore%20(1).png?alt=media&token=9710a6a9-c297-455c-a51f-83e43609d516",
   "ads_image_3":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore.png?alt=media&token=e55178f3-6bb1-4acc-85ad-837fbac0f01f",
