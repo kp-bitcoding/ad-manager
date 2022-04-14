@@ -23,7 +23,7 @@
       "is_native_ads": true,
       "visibility_percentage": 10,
       "no_of_click_interstitial":0,
-      "full_ads":true
+      "full_ads":false
     },
     "custom_ads": {
       "close_button_to_direct_web":false,
