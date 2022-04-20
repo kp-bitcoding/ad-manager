@@ -1,0 +1,193 @@
+{
+  "userData": null,
+  "getRoleListResponses": [
+    {
+      "unRoleId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "stRoleName": "string    ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "bb8b7605-0d7d-472e-a8bc-9cbdbc80bc83",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "97bbb4df-f5a5-4548-b5d2-bd79185c0e02",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "3d38b5e7-4bdc-49f5-8bf3-02337eaa4031",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "3da30931-9e27-4eb1-a8b3-ee42b3e13cb2",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "bb24954b-37fa-4ae6-a319-3ad05ceb2c45",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "1698792e-4387-4b63-a318-6361885256f6",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "15b8169a-900a-4cdb-ab8f-6bd6147a7f52",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "3698a4df-7beb-4591-8ba7-0fb16bcedeff",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "790f793c-5acd-48ee-941f-17df3e8f3045",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "80192732-691d-4924-bca3-b6ea8cea9e1c",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "4cf75869-62e6-4a74-a7f8-9c19ec1c7796",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "3339708c-b5b2-4858-a3f5-8fd2ef212341",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "63307230-171c-467d-8bff-378a4efa5cf2",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "99f9279a-db3e-4809-8657-977336ec8aaa",
+      "stRoleName": "Manager   ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "c4ca588a-5693-4e1d-90a3-485496e5cc8f",
+      "stRoleName": "Demo      ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "c96cdabb-976a-4881-ae22-77fa33326a2c",
+      "stRoleName": "Demo      ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "bb2cf037-7fb5-4abb-aa1f-7345349de96d",
+      "stRoleName": "Demo      ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "a914bb7e-acfc-42a5-bf92-7e289c74aec8",
+      "stRoleName": "Demo      ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "2de15ce0-e025-4099-934b-0ff5a3b18065",
+      "stRoleName": "RR        ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "73f12cf9-e21b-4a89-9e82-5669033dc320",
+      "stRoleName": "RR        ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "074952af-ec78-44be-b064-69c9e9fa36a5",
+      "stRoleName": "Demo      ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "e9bad2e0-ce4d-49ee-9195-f341c4b2fe19",
+      "stRoleName": "Demo      ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "c8e9e169-3c68-41c8-ae4a-0310c3328a90",
+      "stRoleName": "RR        ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "017aec66-3edd-4ee1-a9e5-19e770954b96",
+      "stRoleName": "RR        ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "fbb17962-8cd9-4b69-9e01-c6e30b64bd5a",
+      "stRoleName": "test      ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "ed1d65de-ad11-4c36-b688-e843f4113c48",
+      "stRoleName": "test      ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "46585f64-5717-4562-b3fc-2c963f66afa6",
+      "stRoleName": "worker    ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "be1f5281-5ff9-4973-9cae-4bf72a61a8bc",
+      "stRoleName": "SuperAdmin",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "2fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "stRoleName": "User 2    ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    },
+    {
+      "unRoleId": "f705d3e2-0291-447d-8263-f66f27b314f0",
+      "stRoleName": "User      ",
+      "flgIsSuccess": false,
+      "stMessage": "Something went wrong, Please try again!"
+    }
+  ],
+  "flgIsSuccess": true,
+  "stMessage": "Successfully."
+}
