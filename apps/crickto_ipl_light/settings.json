@@ -37,8 +37,8 @@
   },
   "app_settings":{
     "one_signal_id":"1d2ec480-e657-4836-b059-00079a2e9b33",
-    "live_watch_youtube_button":true,
-    "live_score_button":true,
+    "live_watch_youtube_button":false,
+    "live_score_button":false,
      "live_watch_id":"qIaCAJD80Zc",
     "direct_move_quraka_ads":false,
     "ipl_auction_webview_url":"https://www.iplt20.com/video/41211/top-buys-from-tata-ipl-player-auction-2022?tagNames=home",
