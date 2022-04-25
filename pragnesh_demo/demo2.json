@@ -1,0 +1,18 @@
+{
+    "getAreaListData": [
+        {
+            "unAreaId": "df2b2988-b1c4-450d-af57-2f5b193e62da",
+            "stAreaName": "string"
+        },
+        {
+            "unAreaId": "dec7d475-c5d3-493a-b82e-45877260a229",
+            "stAreaName": "Kitchen "
+        },
+        {
+            "unAreaId": "ca769e9c-e19d-4f89-a247-0c798ad106cb",
+            "stAreaName": "Living Room"
+        }
+    ],
+    "flgIsSuccess": true,
+    "stMessage": "Successfully."
+}
