@@ -25,7 +25,7 @@
     },
     
     "applovin":{
-      "is_applovin_ads":true,
+      "is_applovin_ads":false,
       "inter_id":"5d8940c61fceefe3",
       "banner_id":"daed1cb2b7d52e48",
       "native_id":""
