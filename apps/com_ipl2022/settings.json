@@ -43,8 +43,8 @@
     "ipl_highlights_webview_url":"https://www.iplt20.com/video/highlights",
     "ipl_point_table_webview_url":"https://livecscore.herokuapp.com/pointtable/",
     "live_score_web_url":"https://livecscore.herokuapp.com/scoreboard/",
-    "complete_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-schedule-fixtures",
-    "upcomming_match_webview_url":"https://www.espncricinfo.com/live-cricket-match-results"
+    "complete_match_webview_url":"https://livecscore.herokuapp.com/finished/",
+    "upcomming_match_webview_url":"https://livecscore.herokuapp.com/upcoming/"
   },
   "app_update_information": {
     "is_popup_dialog": true,
