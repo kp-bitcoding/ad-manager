@@ -7,7 +7,7 @@
   "admob_settings": {
     "ads_loading_text": "please wait",
     "ads_loading_delay": 20,
-    "is_banner_ads": false,
+    "is_banner_ads": true,
     "is_interstitial_ads": false,
     "google_ads": {
       "duration_interstitial":20,
@@ -25,7 +25,7 @@
     },
     
     "applovin":{
-      "is_applovin_ads":true,
+      "is_applovin_ads":false,
       "inter_id":"5d8940c61fceefe3",
       "banner_id":"daed1cb2b7d52e48",
       "native_id":""
