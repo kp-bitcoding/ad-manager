@@ -22,7 +22,7 @@
 			"is_native_ads": true,
 			"visibility_percentage": 10,
 			"no_of_click_interstitial": 0,
-			"full_ads": false
+			"full_ads": true
 		},
 		"custom_ads": {
 			"quraka_link": "https://490.go.qureka.com/intro/question",
@@ -36,7 +36,7 @@
 		},
 
 		"applovin": {
-			"isapplovin": false,
+			"isapplovin": true,
 			"intra_applovin": "404e5fb7163bbdc0",
 			"banner_applovin": "829960d01e6b4631"
 		}
