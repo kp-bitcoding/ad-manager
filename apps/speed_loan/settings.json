@@ -34,7 +34,14 @@
       "banner_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
       "interstitial_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
       "all_custom_ad_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github"
-    }
+    },
+    
+    "applovin":{
+      "isapplovin":true,
+     "intra_applovin":"",
+      "banner_applovin":"829960d01e6b4631"
+    },
+    
   },
   "app_settings":{
     "one_signal_id":"7a4a06ab-fe34-4cba-8677-6a0a96aa1099",
