@@ -1,1 +1,124 @@
 
+{
+  "ads_loading_text": "please wait........",
+  "ads_loading_delay": 21,
+  "is_banner_ads": true,
+  "is_interstitial_ads": true,
+  "created_date": "2022-03-15T16:41:36.759417+05:30",
+  "admob_settings": {
+    "ads_loading_text": "please wait",
+    "ads_loading_delay": 20,
+    "is_banner_ads": false,
+    "is_interstitial_ads": false,
+    "google_ads": {
+      "duration_interstitial":20,
+      "banner_ad_unit_id_android": "/6499/example/banner",
+      "interstitial_ad_unit_id_android": "/6499/example/interstitial",
+      "app_open_ad_unit_id_android": "/6499/example/app-open",
+      "native_ads_unit_id_android": "/6499/example/native",
+      "native_video_ads_unit_id_android":"/6499/example/native-video",
+      "is_banner_ads": false,
+      "is_open_ads": false,
+      "is_interstitial_ads": false,
+      "is_native_ads": false,
+      "visibility_percentage": 10,
+      "no_of_click_interstitial":0,
+      "full_ads":false
+    },
+    "custom_ads": {
+      "quraka_link":"https://490.go.qureka.com/intro/question",
+      "close_button_to_direct_web":false,
+      "is_banner_ads": true,
+      "is_interstitial_ads": false,
+      "visibility_percentage": 40,
+      "banner_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+      "interstitial_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+      "all_custom_ad_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github"
+    }
+  },
+  "app_settings":{
+    "one_signal_id":"dcf6a569-4ec3-4352-a838-79ff9fd66f17",
+    "live_watch_youtube_button":true,
+    "live_score_button":true,
+     "live_watch_id":"qIaCAJD80Zc",
+    "direct_move_quraka_ads":false,
+    "ipl_auction_webview_url":"https://www.iplt20.com/video/41211/top-buys-from-tata-ipl-player-auction-2022?tagNames=home",
+    "ipl_highlights_webview_url":"https://www.iplt20.com/video/highlights",
+    "ipl_point_table_webview_url":"https://livecscore.herokuapp.com/pointtable/",
+    "live_score_web_url":"https://livecscore.herokuapp.com/scoreboard/",
+    "complete_match_webview_url":"https://livecscore.herokuapp.com/finished/",
+    "upcomming_match_webview_url":"https://livecscore.herokuapp.com/upcoming/"
+  },
+  
+"ads" :{
+  "show_ads_1":false,
+  "show_ads_2":false,
+  "show_ads_3":false,
+  "ads_image_1":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore%20(3).png?alt=media&token=a21103cc-898e-4d8a-8d96-6ea21fb88c2e",
+  "ads_image_2":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore%20(1).png?alt=media&token=9710a6a9-c297-455c-a51f-83e43609d516",
+  "ads_image_3":"https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/playstore.png?alt=media&token=e55178f3-6bb1-4acc-85ad-837fbac0f01f",
+  "ads_name_1":"Dream 11",
+  "ads_name_2":"Money Count",
+  "ads_name_3":"Live Score",
+  "ads_url_1":"https://play.google.com/store/apps/details?id=com.bitmedia.ipl2k22",
+  "ads_url_2":"https://play.google.com/store/apps/details?id=com.money_count_save",
+  "ads_url_3":"https://play.google.com/store/apps/details?id=com.liveiplscore"
+},
+  
+  
+  "app_update_information": {
+    "is_popup_dialog": true,
+    "download_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+    "website_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
+    "updated_version_code": 2,
+    "filename": "test file name",
+    "title": "this is test title",
+    "default_message": "default msg",
+    "log_message": "log message"
+  },
+  "about_app": {
+    "is_about_app": true,
+    "about_title": "ab itle",
+    "about_message": "djshjfdfhjdsghfjgd vhsdgfsdghf gfgfdygf"
+  },
+  "rate_app": {
+    "is_rate_app": true,
+    "package_id": "46456454",
+    "rate_app_url": "https://play.google.com/store/apps/details?id=com.ipl.live.line",
+    "rate_message": "gnfjghdhddgysf dbfhd fbdsv yfgh hfsdgd"
+  },
+  "more_apps": {
+    "is_more_app": true,
+    "developer_id": "45455455",
+    "more_app_url": "https://play.google.com/store/apps/developer?id=Omagle+Inc"
+  },
+  "share_app": {
+    "is_share_app": true,
+    "share_message_app": "bdhsfg dsvfds fvdfs f f sdd",
+    "share_message_link": "https://play.google.com/store/apps/details?id=com.ipl.live.line"
+  },
+  "official_website": {
+    "is_official_website": true,
+    "official_website": "http://127.0.0.1:8000/admin/insert_app/baseapp/1/change/"
+  },
+  "privacy_policy": {
+    "is_privacy_policy": true,
+    "privacy_policy": "nvjhjfhb ugf h gg df gfd gf"
+  },
+  "terms_of_use": {
+    "is_terms_of_use": true,
+    "terms_of_use": "hvjfdhjfd jh ghfj h fgjh jf hh hf"
+  },
+  "splash_screen": {
+    "is_splash_details": true,
+    "registration_detail": "ghfjdhgj hjhh h hh dhhd",
+    "version_detail": "djs c dns f   ds g  g df g"
+  },
+  "feedback_support": {
+    "is_feedback": true,
+    "cc_email_id": "test@gmail.com",
+    "email_id": "test@gmail.com",
+    "email_subject": "test@gmail.com",
+    "email_message": "heloo mkvfdv dmngjkfdb vdfbdfjbn dfbnkdf bdfn"
+  }
+}
