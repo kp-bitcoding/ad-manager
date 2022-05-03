@@ -35,10 +35,9 @@
 			"all_custom_ad_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github"
 		},
 
-		"applovin": {
-			"isapplovin": false,
-			"intra_applovin": "404e5fb7163bbdc0",
-			"banner_applovin": "829960d01e6b4631"
+		"unity_ads": {
+			"is_unity_ads": false,
+			"intra_applovin": "404e5fb7163bbdc0"
 		}
 
 	},
