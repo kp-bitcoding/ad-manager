@@ -39,7 +39,7 @@
     "live_score_button":true,
      "live_watch_id":"qIaCAJD80Zc",
     "direct_move_quraka_ads":false,
-    "ipl_auction_webview_url":"https://www.iplt20.com/video/41211/top-buys-from-tata-ipl-player-auction-2022?tagNames=home",
+    "ipl_auction_webview_url":"https://livecscore.herokuapp.com/auction/",
     "ipl_highlights_webview_url":"https://www.iplt20.com/video/highlights",
     "ipl_point_table_webview_url":"https://livecscore.herokuapp.com/pointtable/",
     "live_score_web_url":"https://livecscore.herokuapp.com/scoreboard/",
