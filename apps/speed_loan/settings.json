@@ -19,7 +19,7 @@
 			"is_banner_ads": true,
 			"is_open_ads": true,
 			"is_interstitial_ads": true,
-			"is_native_ads": true,
+			"is_native_ads": false,
 			"visibility_percentage": 10,
 			"no_of_click_interstitial": 0,
 			"full_ads": true
