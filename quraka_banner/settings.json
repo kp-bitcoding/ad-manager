@@ -1,0 +1,45 @@
+{
+  "admob_settings": {
+    "google_ads": {
+      "banner_ad_unit_id_android": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_ad_unit_id_android": "ca-app-pub-7718027556357620/9986110540",
+      "app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
+      "native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
+      "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
+      "is_banner_ads": true,
+      "is_open_ads": true,
+      "is_interstitial_ads": true,
+      "is_native_ads": true,
+      "visibility_percentage": 10,
+      "no_of_click_interstitial": 0
+    },
+    "custom_ads": {
+      "qureka_link": "https://490.go.qureka.com/intro/question",
+      "is_quraka": true,
+      "quraka_intra_image": [
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/360X640_1.png?alt=media&token=536b625a-4d04-4678-b688-54d4762d1986",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/360X640_5.png?alt=media&token=8f41a5d3-4661-4516-be12-8992ccad2155",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/360x640.jpg?alt=media&token=ca05d5cd-365b-4fb9-a5b1-90894d2c3c0a",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/360X640_2.png?alt=media&token=a85589dc-9d6a-495f-b909-9280f57364d1",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/360X640_1.png?alt=media&token=536b625a-4d04-4678-b688-54d4762d1986"
+      ],
+      "quraka_banner_image": [
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/1.jpg?alt=media&token=aa45499a-a9bc-422e-b7d3-d3df42cf3ffd",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/2.jpg?alt=media&token=2ac28fe3-ce21-4eb0-8dcb-6d9f3aa5709a",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/3.jpg?alt=media&token=81c34324-7579-4a3a-991a-111df2c4c47f",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/320x50.jpg?alt=media&token=14130b26-8be6-49d9-b26f-fb81852e1109",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/4.jpg?alt=media&token=07230ee4-d3c1-4f91-90c2-ad1c91f7b58d",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/5.jpg?alt=media&token=6db78909-baff-4e52-be1d-ceadb8c4d6de",
+        "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/6.jpg?alt=media&token=cc6e7083-0bee-4da5-9a4a-0464ac2569a6"
+      ],
+      "close_button_to_direct_web": false,
+      "is_interstitial_ads": true
+    },
+    "app_lovin": {
+      "id_unit": "https://490.go.qureka.com/intro/question",
+      "is_applovin": true,
+      "is_banner_ads": true,
+      "is_interstitial_ads": true
+    }
+  }
+}
