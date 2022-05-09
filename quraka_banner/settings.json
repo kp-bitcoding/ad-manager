@@ -1,16 +1,16 @@
 {
   
-  "global_intra_interval_click":1,
+  "global_intra_interval_click":3,
   
   "ads_sequence": [
- "google_ads",
+    "app_lovin",
 "unity_ads",
     "custom_ads"
   
   ],
   "google_ads": {
     "banner_ad_unit_id_android": "ca-app-pub-3940256099942544/6300978111",
-    "interstitial_ad_unit_id_android": "ca-app-pub-7718027556357620/998611-0540--",
+    "interstitial_ad_unit_id_android": "ca-app-pub-7718027556357620/9986110540",
     "app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
     "native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
     "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
