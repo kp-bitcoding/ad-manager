@@ -24,7 +24,7 @@
     "qureka_link": "https://490.go.qureka.com/intro/question",
     "is_quraka_banner": true,
     "is_quraka_intera": true,
-    "close_button_to_direct_web": false,
+    "close_button_to_direct_web": true,
     "quraka_intra_image": [
       "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
       "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
