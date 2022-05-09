@@ -36,10 +36,13 @@
       "is_interstitial_ads": true
     },
     "app_lovin": {
-      "id_unit": "https://490.go.qureka.com/intro/question",
+      "id_unit_banner": "",
+            "id_unit_intra": "",
+            "id_unit_naitve": "",
       "is_applovin": true,
       "is_banner_ads": true,
-      "is_interstitial_ads": true
+      "is_interstitial_ads": true,
+     "is_native_ads":true
     }
   }
 }
