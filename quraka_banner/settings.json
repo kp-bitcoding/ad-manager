@@ -4,7 +4,8 @@
   
   "ads_sequence": [
  
-"unity_ads"
+"unity_ads",
+    "custom_ads"
   
   ],
   "google_ads": {
