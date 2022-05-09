@@ -15,7 +15,9 @@
     },
     "custom_ads": {
       "qureka_link": "https://490.go.qureka.com/intro/question",
-      "is_quraka": true,
+      "is_quraka_banner": true,
+       "is_quraka_intera": true,
+       "close_button_to_direct_web": false,
       "quraka_intra_image": [
         "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/360X640_1.png?alt=media&token=536b625a-4d04-4678-b688-54d4762d1986",
         "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/360X640_5.png?alt=media&token=8f41a5d3-4661-4516-be12-8992ccad2155",
@@ -32,14 +34,13 @@
         "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/5.jpg?alt=media&token=6db78909-baff-4e52-be1d-ceadb8c4d6de",
         "https://firebasestorage.googleapis.com/v0/b/fir-image-ads.appspot.com/o/6.jpg?alt=media&token=cc6e7083-0bee-4da5-9a4a-0464ac2569a6"
       ],
-      "close_button_to_direct_web": false,
-      "is_interstitial_ads": true
+     
+     
     },
     "app_lovin": {
       "id_unit_banner": "",
       "id_unit_intra": "",
       "id_unit_naitve": "",
-      "is_applovin": true,
       "is_banner_ads": true,
       "is_interstitial_ads": true,
       "is_native_ads": true
