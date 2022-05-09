@@ -17,7 +17,7 @@
     "is_open_ads": true,
     "is_interstitial_ads": true,
     "is_native_ads": true,
-    "no_of_click_interstitial": 0
+    "no_of_click_interstitial": 1
   },
   "custom_ads": {
     "qureka_link": "https://490.go.qureka.com/intro/question",
