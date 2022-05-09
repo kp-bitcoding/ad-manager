@@ -43,6 +43,13 @@
       "is_banner_ads": true,
       "is_interstitial_ads": true,
       "is_native_ads": true
+    },
+     "unity_ads": {
+      "game_id": "",
+      "is_intra_ads": true,
+      "is_banner_ads": true, 
     }
+    
+    
   }
 }
