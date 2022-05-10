@@ -10,7 +10,7 @@
   ],
   "google_ads": {
     "banner_ad_unit_id_android": "ca-app-pub-3940256099942544/6300978111",
-    "interstitial_ad_unit_id_android": "ca-app-pub-7718027556357620/9986110540",
+    "interstitial_ad_unit_id_android": "/6499/example/interstitial",
     "app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
     "native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
     "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
