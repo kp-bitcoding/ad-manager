@@ -56,7 +56,7 @@
   },
   "unity_ads": {
     "game_id": "4737797",
-    "is_intra_ads": true,
+    "is_intra_ads": false,
     "is_banner_ads": true,
     "is_rewared_ads": true
   }
