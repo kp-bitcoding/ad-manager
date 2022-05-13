@@ -18,7 +18,7 @@
     "is_banner_ads": true,
     "is_open_ads": true,
     "is_interstitial_ads": true,
-    "is_rewared_ads":true,
+    "is_rewared_ads":false,
     "is_native_ads": true,
     "no_of_click_interstitial": 1
   },
