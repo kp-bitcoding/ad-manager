@@ -14,9 +14,11 @@
     "app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
     "native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
     "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
+    "rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
     "is_banner_ads": true,
     "is_open_ads": true,
     "is_interstitial_ads": true,
+    "is_rewared_ads":true,
     "is_native_ads": true,
     "no_of_click_interstitial": 1
   },
@@ -45,14 +47,17 @@
   "app_lovin": {
     "id_unit_banner": "829960d01e6b4631",
     "id_unit_intra": "404e5fb7163bbdc0",
+    "rewared_ads_unit_id": "",
     "id_unit_naitve": "",
     "is_banner_ads": true,
     "is_interstitial_ads": true,
-    "is_native_ads": true
+    "is_native_ads": true,
+        "is_rewared_ads": true
   },
   "unity_ads": {
     "game_id": "4737797",
     "is_intra_ads": true,
-    "is_banner_ads": true
+    "is_banner_ads": true,
+    "is_rewared_ads": true
   }
 }
