@@ -50,13 +50,13 @@
     "rewared_ads_unit_id": "78bd1c3cf34136c3",
     "id_unit_naitve": "",
     "is_banner_ads": true,
-    "is_interstitial_ads": false,
+    "is_interstitial_ads": true,
     "is_native_ads": true,
         "is_rewared_ads": true
   },
   "unity_ads": {
     "game_id": "4737797",
-    "is_intra_ads": false,
+    "is_intra_ads": true,
     "is_banner_ads": true,
     "is_rewared_ads": true
   }
