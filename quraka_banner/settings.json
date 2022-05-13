@@ -47,12 +47,12 @@
   "app_lovin": {
     "id_unit_banner": "829960d01e6b4631",
     "id_unit_intra": "404e5fb7163bbdc0",
-    "rewared_ads_unit_id": "78bd1c3cf34136c3",
+    "rewared_ads_unit_id": "",
     "id_unit_naitve": "",
     "is_banner_ads": true,
     "is_interstitial_ads": true,
     "is_native_ads": true,
-        "is_rewared_ads": false
+        "is_rewared_ads": true
   },
   "unity_ads": {
     "game_id": "4737797",
