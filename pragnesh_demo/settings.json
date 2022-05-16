@@ -1,0 +1,19 @@
+{
+  "google_ads": {
+    "banner_ad_unit_id_android": "ca-app-pub-3940256099942544/6300978111",
+    "is_banner_ads": true
+  },
+  "custom_ads": {
+    "qureka_link": "https://490.go.qureka.com/intro/question",
+    "is_quraka_banner": true
+  },
+  "app_lovin": {
+    "id_unit_banner": "829960d01e6b4631",
+    "is_banner_ads": true
+  },
+  "settigs": {
+    "share_url": "",
+    "rate_url": "",
+    "privacy_policy": ""
+  }
+}
