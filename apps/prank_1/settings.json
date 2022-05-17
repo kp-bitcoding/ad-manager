@@ -15,17 +15,17 @@
     "native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
     "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
     "rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
-    "is_banner_ads": true,
+    "is_banner_ads": false,
     "is_open_ads": false,
-    "is_interstitial_ads": true,
-    "is_rewared_ads":true,
-    "is_native_ads": true,
+    "is_interstitial_ads": false,
+    "is_rewared_ads":false,
+    "is_native_ads": false,
     "no_of_click_interstitial": 1
   },
   "custom_ads": {
     "qureka_link": "https://490.go.qureka.com/intro/question",
-    "is_quraka_banner": true,
-    "is_quraka_intera": true,
+    "is_quraka_banner": false,
+    "is_quraka_intera": false,
     "close_button_to_direct_web": true,
     "quraka_intra_image": [
       "https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
@@ -49,15 +49,15 @@
     "id_unit_intra": "404e5fb7163bbdc0",
     "rewared_ads_unit_id": "78bd1c3cf34136c3",
     "id_unit_naitve": "",
-    "is_banner_ads": true,
-    "is_interstitial_ads": true,
-    "is_native_ads": true,
-        "is_rewared_ads": true
+    "is_banner_ads": false,
+    "is_interstitial_ads": false,
+    "is_native_ads": false,
+        "is_rewared_ads": false
   },
   "unity_ads": {
     "game_id": "4737797",
-    "is_intra_ads": true,
-    "is_banner_ads": true,
-    "is_rewared_ads": true
+    "is_intra_ads": false,
+    "is_banner_ads": false,
+    "is_rewared_ads": false
   }
 }
