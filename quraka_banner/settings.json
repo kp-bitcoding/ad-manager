@@ -7,7 +7,7 @@
     "app_lovin"
   ],
   "google_ads": {
-    "banner_ad_unit_id_android": "/6499/example/banner",
+    "banner_ad_unit_id_android": "banner",
     "interstitial_ad_unit_id_android": "/6499/example/interstitial",
     "app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
     "native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
