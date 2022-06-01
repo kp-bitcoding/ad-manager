@@ -3,6 +3,7 @@
   "global_intra_interval_click":1,
   
   "ads_sequence": [
+    "google_ads",
     "app_lovin"
   ],
   "google_ads": {
