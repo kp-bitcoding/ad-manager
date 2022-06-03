@@ -3,9 +3,7 @@
   "global_intra_interval_click":1,
   
   "ads_sequence": [
-     "app_lovin",
-    "google_ads",
-    "custom_ads"
+     "app_lovin"
   ],
   "google_ads": {
     "banner_ad_unit_id_android": "/6499/example/banner",
@@ -48,7 +46,6 @@
     "id_unit_intra": "404e5fb7163bbdc0",
     "id_unit_native": "c9e5f467f320ff02",
     "rewared_ads_unit_id": "78bd1c3cf34136c3",
-    "id_unit_naitve": "",
     "is_banner_ads": true,
     "is_interstitial_ads": true,
     "is_native_ads": true,
