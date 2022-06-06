@@ -15,7 +15,7 @@
     "native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
     "rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
     "is_banner_ads": true,
-    "is_open_ads": true,
+    "is_open_ads": false,
     "is_interstitial_ads": true,
     "is_rewared_ads":true,
     "is_native_ads": true,
