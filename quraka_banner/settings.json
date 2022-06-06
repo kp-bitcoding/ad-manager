@@ -3,7 +3,9 @@
   "global_intra_interval_click":1,
   
   "ads_sequence": [
-     "app_lovin"
+    "google_ads",
+    "app_lovin",
+    "custom_ads"
   ],
   "google_ads": {
     "banner_ad_unit_id_android": "/6499/example/banner",
