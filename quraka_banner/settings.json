@@ -1,12 +1,13 @@
 {
   
   "global_intra_interval_click":1,
-  
+  "interstitial_ad_time_interval":10,
   "ads_sequence": [
   "google_ads",
     "app_lovin",
     "custom_ads"
   ],
+  
   "google_ads": {
     "banner_ad_unit_id_android": "/6499/example/banner",
     "interstitial_ad_unit_id_android": "/6499/example/interstitial",
