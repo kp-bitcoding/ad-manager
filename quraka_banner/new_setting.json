@@ -1,7 +1,7 @@
 {
 	"com.airhorn.sounds.pranks": {
 		"more_app_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/AllPrankApps.json",
-		"extra_url": "",
+		"extra_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/App%201/App1.json",
 		"ad_setting": {
 			"is_full_ads": false,
 			"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
