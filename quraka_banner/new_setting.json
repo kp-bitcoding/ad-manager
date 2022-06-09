@@ -45,8 +45,8 @@
 			"is_system_browser": true,
 			"terms_of_use": "https://yoyolive.github.io/tc.html"
 		},
-		"error_report_support": {
-			"is_error_report_spupport": true,
+		"error_report": {
+			"is_error_report_support": true,
 			"email_id": "mailto:abc@gmail.com"
 		},
 		"feedback_support": {
