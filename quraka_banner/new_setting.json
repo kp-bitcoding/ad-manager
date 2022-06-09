@@ -1,5 +1,11 @@
 {
 	"com.airhorn.sounds.pranks": {
+		
+		"ads_sequence": [
+			"app_lovin",
+			"google_ads"
+		],
+		
 		"more_app_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/All_Prank_Apps.json",
 		"extra_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/App%201/App1.json",
 		"ad_setting": {
@@ -108,10 +114,8 @@
 			"is_intra_ads": true,
 			"is_banner_ads": true,
 			"is_rewared_ads": true
-		},
-		"ads_sequence": [
-			
-		]
+		}
+		
 	},
 	
 	"com.airhorn.sounds": {
