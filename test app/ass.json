@@ -1,0 +1,362 @@
+{
+	"com.airhorn.sounds.pranks": {
+		
+		"ads_sequence": [
+			
+		],
+		
+		"more_app_url": "",
+		"extra_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/App%201/App1.json",
+		"ad_setting": {
+			"is_full_ads": false,
+			"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
+			"ads_loading_text": "Ads will loading...",
+			"global_intra_interval_click": 1,
+			"interstitial_ad_time_interval": 0
+		},
+		"app_update": {
+			"is_popup_dialog": true,
+			"is_update_require": false,
+			"package_id": "com.yoyolive.llc",
+			"website_url": "playstore url",
+			"is_system_browser": true,
+			"updated_version_code": 2,
+			"title": "App Update",
+			"default_message": "Your App is Up to date."
+		},
+		"exit_dialog": {
+			"is_exit_require": true,
+			"exit_title": "Exit",
+			"exit_message": "Do you want to exit from App?"
+		},
+		"rate_app": {
+			"is_rate_app": true,
+			"package_id": "com.yoyolive.llc",
+			"rate_app_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
+			"rate_message": "Please Rate us and promote us."
+		},
+		"share_app": {
+			"is_share_app": true,
+			"share_title": "Share link url :",
+			"share_message": "Discover new people and connect to them through live talk by download YOYO Live app from : https://play.google.com/store/apps/details?id=com.yoyolive.llc"
+		},
+		"privacy_policy": {
+			"is_privacy_policy": true,
+			"is_system_browser": true,
+			"privacy_policy": "https://yoyolive.github.io/privacy-policy.html"
+		},
+		"terms_of_use": {
+			"is_terms_of_use": true,
+			"is_system_browser": true,
+			"terms_of_use": "https://yoyolive.github.io/tc.html"
+		},
+		"error_report": {
+			"is_error_report_support": true,
+			"email_id": "mailto:abc@gmail.com"
+		},
+		"feedback_support": {
+			"is_feedback_support": true,
+			"email_id": "mailto:snakebar@gmail.com",
+			"feedback_title": "Feedback on YOYO Live",
+			"feedback_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:",
+			"email_subject": "Feedback on YOYO Live",
+			"email_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:"
+		},
+		"google_ads": {
+			"banner_ad_unit_id_android": "/6499/example/banner",
+			"interstitial_ad_unit_id_android": "/6499/example/interstitial",
+			"app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
+			"native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
+			"native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
+			"rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
+			"is_banner_ads": true,
+			"is_open_ads": true,
+			"is_interstitial_ads": true,
+			"is_rewared_ads": true,
+			"is_native_ads": true,
+			"no_of_click_interstitial": 1
+		},
+		"custom_ads": {
+			"qureka_link": "https://490.go.qureka.com/intro/question",
+			"is_quraka_banner": true,
+			"is_quraka_intera": true,
+			"close_button_to_direct_web": true,
+			"quraka_intra_image": [
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
+			],
+			"quraka_banner_image": [
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+			]
+		},
+		"app_lovin": {
+			"id_unit_banner": "97f8e7f0bd20c851",
+			"id_unit_intra": "a85ad52d5584a012",
+			"id_unit_native": "c9e5f467f320ff02",
+			"rewared_ads_unit_id": "0a11656aa2e21831",
+			"is_banner_ads": true,
+			"is_interstitial_ads": true,
+			"is_native_ads": true,
+			"is_rewared_ads": true
+		},
+		"unity_ads": {
+			"game_id": "4737797",
+			"is_intra_ads": true,
+			"is_banner_ads": true,
+			"is_rewared_ads": true
+		}
+		
+	},
+	
+	
+	
+	
+	
+	"com.iptv.m3u.playlists": {
+		
+		"ads_sequence": [
+		"google_ads",
+		"app_lovin"
+		],
+		
+		"more_app_url": "",
+		"extra_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/App%201/App1.json",
+		"ad_setting": {
+			"is_full_ads": false,
+			"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
+			"ads_loading_text": "Ads will loading...",
+			"global_intra_interval_click": 1,
+			"interstitial_ad_time_interval": 0
+		},
+		"app_update": {
+			"is_popup_dialog": true,
+			"is_update_require": false,
+			"package_id": "com.yoyolive.llc",
+			"website_url": "playstore url",
+			"is_system_browser": true,
+			"updated_version_code": 2,
+			"title": "App Update",
+			"default_message": "Your App is Up to date."
+		},
+		"exit_dialog": {
+			"is_exit_require": true,
+			"exit_title": "Exit",
+			"exit_message": "Do you want to exit from App?"
+		},
+		"rate_app": {
+			"is_rate_app": true,
+			"package_id": "com.yoyolive.llc",
+			"rate_app_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
+			"rate_message": "Please Rate us and promote us."
+		},
+		"share_app": {
+			"is_share_app": true,
+			"share_title": "Share link url :",
+			"share_message": "Discover new people and connect to them through live talk by download YOYO Live app from : https://play.google.com/store/apps/details?id=com.yoyolive.llc"
+		},
+		"privacy_policy": {
+			"is_privacy_policy": true,
+			"is_system_browser": true,
+			"privacy_policy": "https://yoyolive.github.io/privacy-policy.html"
+		},
+		"terms_of_use": {
+			"is_terms_of_use": true,
+			"is_system_browser": true,
+			"terms_of_use": "https://yoyolive.github.io/tc.html"
+		},
+		"error_report": {
+			"is_error_report_support": true,
+			"email_id": "mailto:abc@gmail.com"
+		},
+		"feedback_support": {
+			"is_feedback_support": true,
+			"email_id": "mailto:snakebar@gmail.com",
+			"feedback_title": "Feedback on YOYO Live",
+			"feedback_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:",
+			"email_subject": "Feedback on YOYO Live",
+			"email_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:"
+		},
+		"google_ads": {
+			"banner_ad_unit_id_android": "/6499/example/banner",
+			"interstitial_ad_unit_id_android": "/6499/example/interstitial",
+			"app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
+			"native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
+			"native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
+			"rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
+			"is_banner_ads": true,
+			"is_open_ads": true,
+			"is_interstitial_ads": true,
+			"is_rewared_ads": true,
+			"is_native_ads": true,
+			"no_of_click_interstitial": 1
+		},
+		"custom_ads": {
+			"qureka_link": "https://490.go.qureka.com/intro/question",
+			"is_quraka_banner": true,
+			"is_quraka_intera": true,
+			"close_button_to_direct_web": true,
+			"quraka_intra_image": [
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
+			],
+			"quraka_banner_image": [
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+			]
+		},
+		"app_lovin": {
+			"id_unit_banner": "97f8e7f0bd20c851",
+			"id_unit_intra": "a85ad52d5584a012",
+			"id_unit_native": "c9e5f467f320ff02",
+			"rewared_ads_unit_id": "0a11656aa2e21831",
+			"is_banner_ads": true,
+			"is_interstitial_ads": true,
+			"is_native_ads": true,
+			"is_rewared_ads": true
+		},
+		"unity_ads": {
+			"game_id": "4737797",
+			"is_intra_ads": true,
+			"is_banner_ads": true,
+			"is_rewared_ads": true
+		}
+		
+	},
+	
+	
+	
+	
+	
+	
+	"com.airhorn.sounds": {
+		"more_app_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/All_Prank_Apps.json",
+		"extra_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/All_Prank_Apps.json",
+		"ad_setting": {
+			"is_full_ads": false,
+			"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11",
+			"ads_loading_text": "Ads will loading...",
+			"global_intra_interval_click": 1,
+			"interstitial_ad_time_interval": 0
+		},
+		"app_update": {
+			"is_popup_dialog": false,
+			"is_update_require": false,
+			"package_id": "com.yoyolive.llc",
+			"website_url": "playstore url",
+			"is_system_browser": true,
+			"updated_version_code": 2,
+			"title": "App Update",
+			"default_message": "Your App is Up to date."
+		},
+		"exit_dialog": {
+			"is_exit_require": true,
+			"exit_title": "Exit",
+			"exit_message": "Do you want to exit from App?"
+		},
+		"rate_app": {
+			"is_rate_app": true,
+			"package_id": "com.yoyolive.llc",
+			"rate_app_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
+			"rate_message": "Please Rate us and promote us."
+		},
+		"share_app": {
+			"is_share_app": true,
+			"share_title": "Share link url :",
+			"share_message": "Discover new people and connect to them through live talk by download YOYO Live app from : https://play.google.com/store/apps/details?id=com.yoyolive.llc"
+		},
+		"privacy_policy": {
+			"is_privacy_policy": true,
+			"is_system_browser": true,
+			"privacy_policy": "https://yoyolive.github.io/privacy-policy.html"
+		},
+		"terms_of_use": {
+			"is_terms_of_use": true,
+			"is_system_browser": true,
+			"terms_of_use": "https://yoyolive.github.io/tc.html"
+		},
+		"error_report": {
+			"is_error_report_support": true,
+			"email_id": "mailto:abc@gmail.com"
+		},
+		"feedback_support": {
+			"is_feedback_support": true,
+			"email_id": "mailto:snakebar@gmail.com",
+			"feedback_title": "Feedback on YOYO Live",
+			"feedback_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:",
+			"email_subject": "Feedback on YOYO Live",
+			"email_message": "Hi,\n\n\nYour Feedback YOYO Live! I would like to give you some feedback:"
+		},
+		"google_ads": {
+			"banner_ad_unit_id_android": "/6499/example/banner",
+			"interstitial_ad_unit_id_android": "/6499/example/interstitial",
+			"app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
+			"native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
+			"native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
+			"rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
+			"is_banner_ads": true,
+			"is_open_ads": true,
+			"is_interstitial_ads": true,
+			"is_rewared_ads": true,
+			"is_native_ads": true,
+			"no_of_click_interstitial": 1
+		},
+		"custom_ads": {
+			"qureka_link": "https://490.go.qureka.com/intro/question",
+			"is_quraka_banner": true,
+			"is_quraka_intera": true,
+			"close_button_to_direct_web": true,
+			"quraka_intra_image": [
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
+			],
+			"quraka_banner_image": [
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+				"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+			]
+		},
+		"app_lovin": {
+			"id_unit_banner": "97f8e7f0bd20c851",
+			"id_unit_intra": "a85ad52d5584a012",
+			"id_unit_native": "c9e5f467f320ff02",
+			"rewared_ads_unit_id": "0a11656aa2e21831",
+			"is_banner_ads": true,
+			"is_interstitial_ads": true,
+			"is_native_ads": true,
+			"is_rewared_ads": true
+		},
+		"unity_ads": {
+			"game_id": "4737797",
+			"is_intra_ads": true,
+			"is_banner_ads": true,
+			"is_rewared_ads": true
+		},
+		"ads_sequence": [
+
+		]
+	}
+}
