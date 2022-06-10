@@ -160,7 +160,7 @@
 		},
 		"share_app": {
 			"is_share_app": true,
-			"share_title": "Share link url :",
+			"share_title": "https://play.google.com/store/apps/details?id=com.google.earth",
 			"share_message": "Discover new people and connect to them through live talk by download YOYO Live app from : https://play.google.com/store/apps/details?id=com.yoyolive.llc"
 		},
 		"privacy_policy": {
