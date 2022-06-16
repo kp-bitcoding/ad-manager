@@ -20,7 +20,7 @@
       "is_open_ads": true,
       "is_interstitial_ads": true,
       "is_native_ads": true,
-      "visibility_percentage": 10,
+      "visibility_percentage": 100,
       "no_of_click_interstitial":2
      
     },
@@ -28,7 +28,7 @@
       "close_button_to_direct_web":false,
       "is_banner_ads": false,
       "is_interstitial_ads": false,
-      "visibility_percentage": 40,
+      "visibility_percentage": 0,
       "banner_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
       "interstitial_ads_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github",
       "all_custom_ad_url": "https://stackoverflow.com/questions/38594717/how-do-i-push-new-files-to-github"
