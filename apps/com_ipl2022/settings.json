@@ -35,7 +35,7 @@
   },
   "app_settings":{
     "one_signal_id":"fd4eaefd-f0a4-4e12-bd96-c5a74bc2676a",
-    "live_watch_youtube_button":true,
+    "live_watch_youtube_button":false,
     "live_score_button":true,
      "live_watch_id":"qIaCAJD80Zc",
     "direct_move_quraka_ads":false,
