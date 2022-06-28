@@ -79,7 +79,7 @@
 			"banner_ad_unit_id_android": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", 
 			"interstitial_ad_unit_id_android": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 			"native_ads_unit_id_android": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", 
-			"rewared_ads_unit_id": "YOUR_PLACEMENT_ID", 
+			"rewared_ads_unit_id": "37b1da9d-b48c-4103-a393-2e095e734bd6", 
 			"native_video_ads_unit_id_android": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", 
 			"is_banner_ads": true,
 			"is_interstitial_ads": true,
