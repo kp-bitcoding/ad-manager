@@ -11,9 +11,9 @@
     "is_interstitial_ads": true,
     "google_ads": {
       "duration_interstitial":5,
-      "banner_ad_unit_id_android": "ca-app-pub-7076446534599277/3051965671",
-      "interstitial_ad_unit_id_android": "ca-app-pub-7076446534599277/4173475659",
-      "app_open_ad_unit_id_android": "ca-app-pub-7076446534599277/5654062377",
+      "banner_ad_unit_id_android": "ca-app-pub-9897479575579855/5881023587",
+      "interstitial_ad_unit_id_android": "ca-app-pub-9897479575579855/4567941910",
+      "app_open_ad_unit_id_android": "ca-app-pub-9897479575579855/6775572350",
       "native_ads_unit_id_android": "/6499/example/native",
       "native_video_ads_unit_id_android":"/6499/example/native-video",
       "is_banner_ads": true,
