@@ -3,9 +3,7 @@
   "global_intra_interval_click":1,
   "interstitial_ad_time_interval":0,
   "ads_sequence": [
-    "app_lovin",
-    "google_ads",
-    "custom_ads"
+    "app_lovin"
   ],
   
   "google_ads": {
