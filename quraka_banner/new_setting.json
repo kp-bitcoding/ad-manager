@@ -2,7 +2,7 @@
 	"com.booya.videochat": {
 		
 		"ads_sequence": [
-			"facebook_ads"		],
+			"google_ads"		],
 		
 		"more_app_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/All_Prank_Apps.json",
 		"extra_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/App%201/App1.json",
@@ -64,9 +64,9 @@
 		"google_ads": {
 			"banner_ad_unit_id_android": "/6499/example/banner",
 			"interstitial_ad_unit_id_android": "/6499/example/interstitial",
-			"app_open_ad_unit_id_android": "ca-app-pub-3940256099942544/3419835294",
-			"native_ads_unit_id_android": "ca-app-pub-3940256099942544/2247696110",
-			"native_video_ads_unit_id_android": "ca-app-pub-3940256099942544/1044960115",
+			"app_open_ad_unit_id_android": "/6499/example/app-open",
+			"native_ads_unit_id_android": "/6499/example/native",
+			"native_video_ads_unit_id_android": "/6499/example/native",
 			"rewared_ads_unit_id": "ca-app-pub-3940256099942544/5224354917",
 			"is_banner_ads": true,
 			"is_open_ads": true,
