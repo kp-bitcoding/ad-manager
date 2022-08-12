@@ -2,6 +2,7 @@
 	"com.booya.videochat": {
 		
 		"ads_sequence": [
+			"app_lovin",
 			"google_ads"		],
 		
 		"more_app_url": "https://raw.githubusercontent.com/pkbitcoding/Prank-API/main/All_Prank_Apps.json",
