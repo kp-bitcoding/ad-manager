@@ -1,0 +1,154 @@
+{		
+	"com.live.videochats.australia": 	
+	{	
+		
+	"ads_sequence": [	
+		
+		"google_ads",
+		"app_lovin"
+		
+	],	
+	"more_app_url": "https://play.google.com/store/apps/developer?id=VideoChat.llc", 	
+	"extra_url": "https://gitlab.com/bitcodingsolutions/booya/-/raw/main/App_Setting.json", 
+	"more_live_apps":"https://gitlab.com/vs.bitcoding/live_apps/-/raw/main/live_apps.json",	
+	"ad_setting": {	
+		
+		"app_version_code": 4,
+		
+		"is_full_ads": false,
+		"onesignal_id": "ae6e77d4-07e5-42ba-a8ef-6b396d1bfe11", 
+		"ads_loading_text": "Ad is loading...",
+		"seconds_require_triger_reward": 25,
+		"global_intra_interval_click": 1,
+		"interstitial_ad_time_interval": 1
+	},	
+	"app_update": {	
+		"is_popup_dialog": true,
+		"is_update_require": false,
+		"package_id": "com.adult.iptv.hot.playlist", 
+		"website_url": "https://play.google.com/store/apps/details?id=com.adult.iptv.hot.playlist", 
+		"app_icon": "https://play-lh.googleusercontent.com/puoKL06VOKbYoXPB-O2JfueIgMDuy2vGWdSZ7f7XsGG9idZQ7Sr42E54Uv-M5a5fqXo=w240-h480-rw",
+		"updated_version_code": 50,
+		"title": "Enjoy Free Live Channels",
+		"default_message": "Don't feel Alone."
+	},	
+	"exit_dialog": {	
+		"is_exit_require": true,
+		"exit_title": "Exit",
+		"exit_message": "Do you want to exit from App?"
+	},	
+	"reward_dialog": {      	
+		"is_reward_require": true,
+		"reward_message": "Watch Reward ads for More Random Video call"
+	},     	
+		
+	"About_App": {	
+		"is_override": false,
+		"is_about_app": true,
+		"about_title": "Australia Random Video Calls", 
+		"about_message": "Random Video Calling app!",
+		"registration_detail": "Australia Random Video Calls", 
+		"version_detail": "version : 1.0.0"
+	},	
+	"rate_app": {	
+		"is_rate_app": true,
+		"package_id": "com.live.videochats.australia", 
+		"rate_app_url": "https://play.google.com/store/apps/details?id=com.live.videochats.australia", 
+		"rate_message": "Please Rate us and promote us."
+	},	
+	"share_app": {	
+		"is_share_app": true,
+		"share_title": "Share link url :https://play.google.com/store/apps/details?id=com.live.videochats.australia", 
+		"share_message": "Now anyone can getAustralia Random Video Calls app : https://play.google.com/store/apps/details?id=com.live.videochats.australia" 
+	},	
+	"privacy_policy": {	
+		"is_privacy_policy": true,
+		"is_system_browser": true,
+		"privacy_policy": "https://pages.flycricket.io/videochats-llc/privacy.html " 
+	},	
+	"terms_of_use": {	
+		"is_terms_of_use": true,
+		"is_system_browser": true,
+		"terms_of_use": "https://pages.flycricket.io/videochats-llc/privacy.html " 
+	},	
+	"error_report": {	
+		"is_error_report_support": true,
+		"email_id": "mailto:videochat.llc@gmail.com"
+	},	
+	"feedback_support": {	
+		"is_feedback_support": true,
+		"email_id":"mailto:videochat.llc@gmail.com",
+		"feedback_title": "Feedback on Australia Random Video Calls",
+		"feedback_message": "Hi,\n\n\nYour Feedback Australia Random Video Calls! I would like to give you some feedback:",
+		"email_subject": "Feedback on Australia Random Video Calls",
+		"email_message": "Hi,\n\n\nYour Feedback Australia Random Video Calls! I would like to give you some feedback:"
+		
+	},	
+	"google_ads": {	
+		"banner_ad_unit_id_android": "/6499/example/banner", 
+		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
+		"app_open_ad_unit_id_android": "/6499/example/app-open", 
+		"native_ads_unit_id_android": "/6499/example/native", 
+		"rewared_ads_unit_id": "/6499/example/rewarded", 
+		"native_video_ads_unit_id_android": "/6499/example/native-video", 
+		"is_banner_ads": true,
+		"is_open_ads": true,
+		"is_interstitial_ads": true,
+		"is_rewared_ads": true,
+		"is_native_ads": true,
+		"no_of_click_interstitial": 1
+	},	
+	"facebook_ads": {	
+		"banner_ad_unit_id_android": "633714137717004_63371494383590", 
+		"interstitial_ad_unit_id_android": "633714137717004_63371494483590", 
+		"rewared_ads_unit_id": "633714137717004_63371494433590", 
+		"native_ads_unit_id_android": "633714137717004_63371494483590", 
+		"is_banner_ads": true,
+		"is_interstitial_ads": true,
+		"is_rewared_ads": true,
+		"is_native_ads": true,
+		"no_of_click_interstitial": 1
+	},	
+	"app_lovin": {	
+		"sdk_key":"l2eHJCxgHTn4tTHns3A55HzXG6ekoyDJigM2SxRmGSN6T1bNmT37tTDW0UxVBVkUepJxXKxFQ8yPMONBdyKO3A",
+		"is_unlimited_ads": true,
+      	"id_unit_open": "e4f41da53b068b30",		
+		"id_unit_banner": "22236f2b3b70151a",
+		"id_unit_intra": "22236f2b3b70151a",
+		"id_unit_native_multiple": 
+		{
+		   "small":"9632213c2b615176",
+		   "medium":"8e4ac4cda97b3d52",
+		   "manual":"3f881141177da490"
+		 },
+		"rewared_ads_unit_id": "34cf419a9956b457",
+		"is_open_ads": true,
+		"is_banner_ads": true,
+		"is_interstitial_ads": true,
+		"is_native_ads": true,
+		"is_rewared_ads": true
+	},	
+	"custom_ads": {	
+		"qureka_link": "https://490.go.qureka.com/intro/question",
+		"is_quraka_banner": true,
+		"is_quraka_intera": true,
+		"close_button_to_direct_web": true,
+		"quraka_intra_image": [
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_1.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_2.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_3.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_4.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_5.png?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/360X640_6.png?raw=true"
+	],	
+	"quraka_banner_image": [	
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/2.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/3.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/320x50.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/4.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/5.jpg?raw=true",
+		"https://github.com/pragneshpalsanabitcoding/image_quraka/blob/main/6.jpg?raw=true"
+	   ]	
+	  }	
+	}	
+}		
