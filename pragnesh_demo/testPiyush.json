@@ -97,7 +97,7 @@
 		"is_interstitial_ads": true,
 		"is_rewared_ads": false,
 		"is_native_ads": true,
-		"no_of_click_interstitial": 1
+		"no_of_click_interstitial": 0
 	},
 	"facebook_ads": {	
 		"banner_ad_unit_id_android": "5539744139423297_5539745006089877", 
