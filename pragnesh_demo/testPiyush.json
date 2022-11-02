@@ -21,7 +21,7 @@
 		
 		"onesignal_id": "07de0128-c4bc-45f0-8baa-6867a262a6b7", 
 		"ads_loading_text": "Ads will loading...",
-		"global_intra_interval_click": 1,
+		"global_intra_interval_click": 3,
 		"interstitial_ad_time_interval": 3
 	},	
 	"app_update": {	
