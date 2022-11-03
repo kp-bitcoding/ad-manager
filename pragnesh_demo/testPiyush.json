@@ -86,16 +86,16 @@
 		
 	},	
 	"google_ads": {	
-		"banner_ad_unit_id_android": "/21753324030,22831392815/com.bitlinks.arebic.iptv.m3ulist_Banner", 
-		"interstitial_ad_unit_id_android": "/21753324030,22831392815/com.bitlinks.arebic.iptv.m3ulist_Interstitial", 
-		"app_open_ad_unit_id_android": "/21753324030,22831392815/com.bitlinks.arebic.iptv.m3ulist_AppOpen", 
-		"native_ads_unit_id_android": "/21753324030,22831392815/com.bitlinks.arebic.iptv.m3ulist_Native", 
-		"rewared_ads_unit_id": "/21753324030,22831392815/com.bitlinks.arebic.iptv.m3ulist_Rewarded", 
-		"native_video_ads_unit_id_android": "/21753324030,22820476569/com.bitlinks.arebic.iptv.m3ulist_Native", 
+		"banner_ad_unit_id_android": "/6499/example/banner", 
+		"interstitial_ad_unit_id_android": "/6499/example/interstitial", 
+		"app_open_ad_unit_id_android": "/6499/example/app-open", 
+		"native_ads_unit_id_android": "/6499/example/native", 
+		"rewared_ads_unit_id": "/6499/example/rewarded", 
+		"native_video_ads_unit_id_android": "/6499/example/native", 
 		"is_banner_ads": true,
 		"is_open_ads": true,
 		"is_interstitial_ads": true,
-		"is_rewared_ads": false,
+		"is_rewared_ads": true,
 		"is_native_ads": true,
 		"no_of_click_interstitial": 0
 	},
