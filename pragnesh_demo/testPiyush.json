@@ -143,15 +143,15 @@
 		"app_lovin": {
 			"sdk_key": "l2eHJCxgHTn4tTHns3A55HzXG6ekoyDJigM2SxRmGSN6T1bNmT37tTDW0UxVBVkUepJxXKxFQ8yPMONBdyKO3A",
 			"is_unlimited_ads": true,
-			"id_unit_open": "ee968f9b7a3deef1",
-			"id_unit_banner": "c31a289f08daac62",
-			"id_unit_intra": "33c1bb55384c8354",
+			"id_unit_open": "ee968f9b7a3de_ef1",
+			"id_unit_banner": "c31a289f08daa_c62",
+			"id_unit_intra": "33c1bb55384c_8354",
 			"id_unit_native_multiple": {
-				"small": "9632213c2b615176",
-				"medium": "8e4ac4cda97b3d52",
-				"manual": "411d79e5d2586852"
+				"small": "9632213c2_b615176",
+				"medium": "8e4ac4cd_a97b3d52",
+				"manual": "411d79e5d_2586852"
 			},
-			"rewared_ads_unit_id": "6216b230b4e74dfc",
+			"rewared_ads_unit_id": "6216b2_30b4e74dfc",
 			"is_open_ads": true,
 			"is_banner_ads": true,
 			"is_interstitial_ads": true,
